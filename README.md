@@ -89,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 ## Author
-Developed by **[Your Name](https://github.com/yourusername)**. For queries, reach out via email or GitHub.
+Developed by **[Orkhan Seyfullayev](https://github.com/orkhanseyfullayev)**. For queries, reach out via email or GitHub.
