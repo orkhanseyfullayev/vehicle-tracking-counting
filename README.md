@@ -30,7 +30,7 @@ pip install ultralytics opencv-python numpy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vehicle-tracking-counting.git
+   git clone https://github.com/orkhanseyfullayev/vehicle-tracking-counting
    cd vehicle-tracking-counting
    ```
 
